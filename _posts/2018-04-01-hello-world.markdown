@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2018-04-01 12:07:42 -0800
+date:   2018-04-01
 categories: life
 ---
 
@@ -15,7 +15,11 @@ Make it really easy.
 
 Do I really need the YYY-MM-DD in front of a post? Ughh.
 
-This is cool for sure!
+Yes it seems that I do, on cerealize.me I used just the date for each post.
+
+...
+
+This feature is cool for sure!
 
 Jekyll also offers powerful support for code snippets:
 
