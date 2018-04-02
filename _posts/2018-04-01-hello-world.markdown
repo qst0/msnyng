@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-11-26 14:19:38 -0700
-categories: jekyll update
+title:  "Hello World!"
+date:   2018-04-01 12:07:42 -0800
+categories: life
 ---
 
 Back to the blog again. Cerealize.me is down-- the domain expired.
